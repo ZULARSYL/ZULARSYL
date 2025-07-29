@@ -1,4 +1,4 @@
-<h2 align="left">Its Zul, I Am a Informatics Engineering Student</h2>
+<h2 align="left">Hai Guys🖐️, I Am a Informatics Engineering Student</h2>
 
 ###
 
